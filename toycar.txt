@@ -1,3 +1,4 @@
 door
 red door
 window
+dark window
