@@ -2,3 +2,4 @@ door
 red door
 window
 dark window
+light window
