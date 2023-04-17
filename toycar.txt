@@ -3,3 +3,8 @@ red door
 window
 dark window
 light window
+wheel
+
+
+seat 1
+seat 2
