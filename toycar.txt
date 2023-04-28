@@ -4,7 +4,7 @@ window
 dark window
 light window
 wheel
-
+square wheel
 
 seat 1
 seat 2
