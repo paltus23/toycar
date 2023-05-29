@@ -8,3 +8,6 @@ square wheel
 
 seat 1
 seat 2
+2 wheel
+
+green door
