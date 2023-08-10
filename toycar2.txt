@@ -6,4 +6,8 @@ class car
 	
 	color = red
 
+	door_right_front
+	door_left_front
+
+	
 }
