@@ -9,5 +9,6 @@ class car
 	door_right_front
 	door_left_front
 
-	
+	door_right_back
+	door_left_back		
 }
