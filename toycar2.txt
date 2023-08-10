@@ -1,4 +1,6 @@
 class car
 {
 
+	window.size.x = 10
+
 }
