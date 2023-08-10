@@ -3,5 +3,7 @@ class car
 
 	window.size.x = 10
 	window.size.y = 6
+	
+	color = red
 
 }
